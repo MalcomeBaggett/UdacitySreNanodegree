@@ -44,3 +44,11 @@ How It All Comes Together
 We first establish where SRE comes from and learn which roles it is responsible for compared to other teams. Once we understand the SRE responsibilities, we can see how it fits in an organization and more importantly, how it improves an organization. We then take a look at the SRE Team itself, and learn about how it uses some of the most-used tools in the industry to be effective.
 
 In short, this course takes you from non-existent SRE to how an SRE team is formed and provides the tools that are commonly used by these professionals in the field.
+
+# Who SRE's work with
+It really depends on the organization but the teams you work with could include:
+
+Development -- you will probably interface with this team the most, as there are a lot of overlapping tasks.
+DevOps -- since DevOps typically owns the delivery of software, they will be interested to know how well it is performing for end users.
+QA -- SRE and QA may have more of a consulting relationship since both teams use automation
+Support -- this team is on the front line with clients and may need a hand from SRE teams for more technical issues.
