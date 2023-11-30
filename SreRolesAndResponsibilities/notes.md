@@ -81,3 +81,19 @@ Meeting client requirements -- coding these requirements in the development phas
 Creating unit tests -- quick tests to ensure their logic is behaving the way it should be
 System requirements -- analyze and provide system requirements to run their application
 Documentation -- most of the documentation they provide are comments within code
+
+# Core Skills of SRE
+
+The core skills of SRE are:
+
+Monitoring -- creating dashboards to display the status of the system
+
+Information Gathering -- compiling pertinent information like log files and software versions and sharing with the SRE and development teams
+
+The "Golden 4" -- latency, saturation, errors, traffic (see new terms below)
+
+Updating The System -- planning and coordinating system upgrades, security updates, or regular patches
+
+Release Coordination -- gather everything needed for the release of the next version of the application
+
+Creating Infrastructure -- providing an environment for the system to operate
